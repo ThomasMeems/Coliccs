@@ -1,0 +1,167 @@
+body {
+    width: 1020px;
+    margin: 0 auto;
+    background: red;
+}
+#nav{
+    color: black;
+    font-size: 1em;
+    position: fixed;
+    background-color: white;
+    border: 5px solid white;
+    padding: 20px;
+    width: 1060px;
+    text-align: right;
+}
+#border {
+    text-align: center;
+    color: black;
+    border: 10px solid white;
+    width: 1060px;
+    height: 1000px;
+    background-color: white;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#header {
+    background-color: blue;
+}
+ul{
+    margin-left:20px;
+    margin-top: -50px;§
+}
+
+li {
+    display: inline;
+    padding: 2em;
+}
+.foto {
+    float: center;
+    margin: 6%;
+}
+#logo {
+    float: left;
+}
+#footer {
+    text-align: center;
+    color: black;
+    font-size: 1em;
+    margin-top: 10px;
+    border: 1px solid white;
+    width: 1118px;
+    background-color: white;
+    text-decoration: none;
+    position: fixed;
+    float:none;
+    bottom: -10px;
+}
+#Rood {
+    border: 10px solid red;
+    float: left;
+    margin-left: 30px;
+}
+#Blauw {
+    border: 10px solid blue;
+    float: left;
+    margin-left: 30px;
+}
+#tekst {
+    border: 10px solid red;
+    width: 300px;
+    margin-top: 100px;
+    float: left;
+}
+#Plaatje1 {
+    border: 10px solid red;
+    width: 200px;
+    float: left;
+    
+}
+#Plaatje2 {
+    border: 10px solid blue;
+    width: 200px;
+    float: left;
+    margin-left: 53px;
+}
+#Plaatje3 {
+    border: 10px solid red;
+    width: 200px;
+    float: left;
+    margin-left: 53px;
+}
+#Plaatje4 {
+    border: 10px solid blue;
+    width: 200px;
+    float: left;
+    margin-left: 53px;
+}
+#Icons {
+    border: 10px solid white;
+    margin-top: 400px;
+    width: 1020px;
+    height: 90px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+    margin-left: 20px
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+}
+
+.fa-instagram {
+    background: #fccc63;
+    color: white;
+    float: left;
+    height: 40px;
+    width: 120px;
+}
